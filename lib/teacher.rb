@@ -10,4 +10,5 @@ class Teacher > User
   def teacher
     KNOWLEDGE
   end
+  
 end
